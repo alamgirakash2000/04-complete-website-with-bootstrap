@@ -1,0 +1,92 @@
+.nav-item{
+    padding: 0 1rem;
+}
+
+.nav-item .active{
+    border-left: 2px solid white;
+}
+.carousel-item.item-1{
+    background: url(../img/image1.jpg);
+    background-size: cover;
+    min-height: 400px;
+    background-attachment: fixed;
+}
+.carousel-item.item-2{
+    background: url(../img/image2.jpg);
+    background-size: cover;
+    min-height: 400px;
+    background-attachment: fixed;
+}
+.carousel-item.item-3{
+    background: url(../img/image3.jpg);
+    background-size: cover;
+    min-height: 400px;
+    background-attachment: fixed;
+}
+.bg-2{
+    background: url(../img/lights.jpg) no-repeat;
+    background-size: cover;
+    min-height: 100px;
+    background-attachment: fixed;
+}
+.bg-3{
+    background: url(../img/image2.jpg) no-repeat;
+    background-size: cover;
+    min-height: 100px;
+    background-attachment: fixed;
+}
+.overlay{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: rgba(0,0,0,0.6);
+    width: 100%;
+}
+.bg-about{
+    background: url(../img/image1.jpg) no-repeat;
+    background-size: cover;
+    min-height: 100px;
+    background-attachment: fixed;
+}
+.bg-services{
+    background: url(../img/image2.jpg) no-repeat;
+    background-size: cover;
+    min-height: 100px;
+    background-attachment: fixed;
+}
+.bg-blog{
+    background: url(../img/image3.jpg) no-repeat;
+    background-size: cover;
+    min-height: 100px;
+    background-attachment: fixed;
+}
+.bg-contact{
+    background: url(../img/image1.jpg) no-repeat;
+    background-size: cover;
+    min-height: 100px;
+    background-attachment: fixed;
+}
+
+.blockquote{
+    padding: 1% 20%;
+}
+.copyright{
+    background: black;
+}
+
+.contact-details , .contact-form{
+    border: 1px solid rgba(128, 128, 128, 0.733);
+}
+.contact-form h2{
+    padding-bottom: 1rem;
+    border-bottom: 1px solid grey;
+}
+footer h1{
+    padding-bottom: 1rem;
+    border-bottom: 1px solid gray;
+    margin-bottom: 1rem;
+}
+
+.card small{
+    margin-bottom: 1rem;
+    border-bottom: 1px solid black;
+}
